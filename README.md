@@ -1,0 +1,32 @@
+## Components
+
+- [x] Layout
+	- [x] Box
+- [x] Typography
+	- [x] Heading
+	- [x] Text
+	- [x] Hignlight
+- [ ] Forms
+	- [ ] Text Input
+	- [ ] Text Area
+	- [ ] Button
+	- [ ] Icon Button
+	- [ ] CheckBox
+	- [ ] Switch
+- [ ] Data Display
+	- [ ] Badge/Tag
+	- [ ] Divider
+	- [ ] Keyboard Key
+- [ ] Feedback
+	- [ ] Alert/Toast
+	- [ ] Spinner
+	- [ ] Skeleton
+- [ ] Disclosure
+	- [ ] Accordion
+- [ ] Navigation
+	- [ ] Breadcrumb
+	- [ ] Link
+	- [ ] Pagination
+- [ ] Media and Icons
+	- [ ] Avatar
+	- [ ] Image

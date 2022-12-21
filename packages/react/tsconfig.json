@@ -1,0 +1,4 @@
+{
+  "extends": "@entrapta/ts-config/react.json",
+  "include": ["src"],
+}
